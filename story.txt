@@ -1,0 +1,7 @@
+as a customer
+I want to get a queuing ticket on my phone
+so that I can go elsewhere while waiting in the queue.
+
+as a customer
+I want to get in the queue when I leave home
+so that I can be in front of the queue before everyone else.
